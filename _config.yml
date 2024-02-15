@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yiming Tang"
 title_separator          : "-"
-name                     : &name "Yiming"
+name                     : &name "Yiming Tang"
 description              : &description "personal description"
 url                      : https://yiming-tang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yiming Tang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Shanghai, China"
+  bio              : "Assistant Professor"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
