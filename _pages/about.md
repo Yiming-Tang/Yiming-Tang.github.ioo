@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor in School of Statistics and Mathematics at Shanghai Lixin University of Accounting and Finance. I am also an on-the-job postdoctoral fellow in Shanghai Municipal Big Data Center. In 2020, I obtained my Ph.D degree in Statistics from School of Statistics and Management, Shanghai University of Finance and Economics under the supervision of Prof. Tao Huang. During 2018-2019, I worked as a visiting scholar in Department of Statistics, North Carolina State University with Prof. Wenbin Lu and Rui Song. My research interests are mainly on network data analysis and machine learning.
+I am currently an assistant professor in School of Statistics and Mathematics at Shanghai Lixin University of Accounting and Finance. I am also an on-the-job postdoctoral fellow in Shanghai Municipal Big Data Center. In 2020, I obtained my Ph.D degree in Statistics from School of Statistics and Management, Shanghai University of Finance and Economics under the supervision of Prof. Tao Huang. During 2018-2019, I worked as a visiting scholar in Department of Statistics, North Carolina State University. My research interests are mainly on network data analysis and machine learning.
 
 
 # Education
